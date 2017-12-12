@@ -1,8 +1,8 @@
 <?php
-$DBhost = "localhost";
-$DBuser ="dpham181";
-$DBpass ="Danh2610";
-$DBname ="DANHPHAM";
+$DBhost = "";
+$DBuser ="";
+$DBpass ="";
+$DBname ="";
 
 try{
   
